@@ -8,4 +8,10 @@ This design uses an inexpensive silicone bracelete that is cut into 18mm long se
 
 <img src="./Images/brush side.png" width=600>
 
+An M3 heat set insert is installed prior to assembly 
+
 <img src="./Images/brush dims.png" width=600>
+
+<img src="./Images/brush right.png" width=600>
+
+Cut each flap into thirds with a scissors to form the bristles after the flaps are installed and the screw secured. 
