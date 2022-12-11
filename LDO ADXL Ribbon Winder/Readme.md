@@ -7,4 +7,4 @@ Snap halves together then line up the slot with the arror on the lid. Use the Ho
 
 <img src="./Images/Winder Exploded.png" width=600>
 
-{% include youtube.html id="ohC4sa6RvPU" %}
+You can view it in action here: https://youtube.com/shorts/ohC4sa6RvPU?feature=share
