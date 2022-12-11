@@ -1,3 +1,3 @@
 # LDO ADXL Ribbon Winder
 
-<img src="./winder assembled.png" width=600>
+<img src="./Images/winder assembled.png" width=600>
