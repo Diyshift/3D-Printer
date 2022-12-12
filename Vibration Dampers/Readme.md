@@ -1,7 +1,7 @@
 # Vibration Damping Feet
  ### Uses sorbothane rings to dampen printer vibration 
 
-<img src="./Images/winder_w_ffc.png" width=600>
+<img src="./Images/installed.jpg" width=600>
 
 ### BOM
 
@@ -20,5 +20,5 @@ Add anti-skid cork or similar to bottom of cup and trim.  Place the sorbothane r
 
 
 
-<img src="./Images/Winder Exploded.png" width=600>
+<img src="./Images/sorbothane damper.png" width=600>
 
