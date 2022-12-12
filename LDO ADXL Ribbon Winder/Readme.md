@@ -1,5 +1,5 @@
 # LDO ADXL Ribbon Winder
-** Stores FFC ribbon cable for LDO Input Shaper Toolkit. 
+ **Stores FFC ribbon cable for LDO Input Shaper Toolkit. 
 
 <img src="./Images/winder_w_ffc.png" width=600>
 
