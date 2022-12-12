@@ -9,7 +9,7 @@
 
 ### Instructions:
  
-Snap into extrusionslots to form wire channels. Cutouts models are provided for wire entry/exit. Shown here on vertical extrusions for Trident:
+Snap into extrusionslots to form wire channels. Cutouts models are provided for wire entry/exit. Shown here on vertical extrusions using the main channel clip for Trident:
 
 <img src="./Images/channel-installed.jpg" width=600>
 
