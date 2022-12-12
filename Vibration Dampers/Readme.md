@@ -1,4 +1,4 @@
-# Vibration Damping Feet
+# Vibration Damping Coasters
  ### Uses sorbothane rings to dampen printer vibration 
 
 <img src="./Images/installed.jpeg" width=600>
