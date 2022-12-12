@@ -1,7 +1,7 @@
 # Vibration Damping Feet
  ### Uses sorbothane rings to dampen printer vibration 
 
-<img src="./Images/installed.jpeg" width=600>
+<img src="./Images/installed.jpeg" width=800>
 
 ### BOM
 
@@ -22,9 +22,9 @@ Add anti-skid cork or similar to bottom of cup and trim.  Place the sorbothane r
 
 
 
-<img src="./Images/sorbothane damper.png" width=600>
+<img src="./Images/sorbothane damper.png" width=800>
 
 My Trident input shaper results before and after adding the dampers: 
 
-<img src="./Images/Sorbothane_IS_result_Trident.png" width=600>
+<img src="./Images/Sorbothane_IS_result_Trident.png" width=800>
 
