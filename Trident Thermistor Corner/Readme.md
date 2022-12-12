@@ -9,7 +9,7 @@
 
 ### Instructions:
  
-This is the A corner, so this will place your thermistor in the left-rear or front right.  
+This is the A corner, so this will place your thermistor in the left-rear or front-right corner.  
 
 
 
