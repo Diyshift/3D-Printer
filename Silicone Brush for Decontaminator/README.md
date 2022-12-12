@@ -6,6 +6,14 @@ This design uses an inexpensive silicone bracelete that is cut into 18mm long se
 
 <img src="./Images/brush iso.png" width=600>
 
+### BOM
+
+Size | Qty
+--- | ---
+M3x50 | 1
+Heat-set Insert | 1
+Silicone Wrist Band | 1
+
 <img src="./Images/brush side.png" width=600>
 
 An M3 heat set insert is installed prior to assembly 
