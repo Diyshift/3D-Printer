@@ -7,9 +7,10 @@
 
 Size | Qty
 --- | ---
-Isolate It: Sorbothane Vibration Isolation Washer 70 Duro (0.5" ID - 1.5" OD - 0.5" Thick) | 4
+Isolate It: Sorbothane Vibration Isolation Washer 70 Duro (0.5" ID - 1.5" OD - 0.5" Thick)* | 4
 Self adhesive cork or similar anti skid (optional) | 4
-*tested with Trident 300, smaller lighter printers will likely require a lower durometer
+
+*tested with Voron Trident 300, smaller lighter printers will likely require a lower durometer
 
 ### Printing
   * Default voron settings
@@ -23,3 +24,4 @@ Add anti-skid cork or similar to bottom of cup and trim.  Place the sorbothane r
 
 <img src="./Images/sorbothane damper.png" width=600>
 
+*tested with Voron Trident 300, smaller lighter printers will likely require a lower durometer
