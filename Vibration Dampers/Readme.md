@@ -24,4 +24,7 @@ Add anti-skid cork or similar to bottom of cup and trim.  Place the sorbothane r
 
 <img src="./Images/sorbothane damper.png" width=600>
 
+My Trident input shaper results before and after adding the dampers: 
+
+<img src="./Images/Sorbothane_IS_result_Trident.png" width=600>
 
