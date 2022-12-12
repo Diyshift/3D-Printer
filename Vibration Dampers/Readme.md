@@ -9,6 +9,7 @@ Size | Qty
 --- | ---
 Isolate It: Sorbothane Vibration Isolation Washer 70 Duro (0.5" ID - 1.5" OD - 0.5" Thick) | 4
 Self adhesive cork or similar anti skid (optional) | 4
+*tested with Trident 300, smaller lighter printers will likely require a lower durometer
 
 ### Printing
   * Default voron settings
