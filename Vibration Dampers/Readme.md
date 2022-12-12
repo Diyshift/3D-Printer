@@ -24,4 +24,4 @@ Add anti-skid cork or similar to bottom of cup and trim.  Place the sorbothane r
 
 <img src="./Images/sorbothane damper.png" width=600>
 
-*tested with Voron Trident 300, smaller lighter printers will likely require a lower durometer
+
