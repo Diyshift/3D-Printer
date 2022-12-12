@@ -28,3 +28,8 @@ My Trident input shaper results before and after adding the dampers:
 
 <img src="./Images/Sorbothane_IS_result_Trident.png" width=800>
 
+Input shaper results with the ADXL mounted to my desk to measure its vibration: 
+
+<img src="./Images/ResultsDesk.png" width=800>
+
+
