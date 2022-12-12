@@ -1,7 +1,7 @@
 # Vibration Damping Feet
  ### Uses sorbothane rings to dampen printer vibration 
 
-<img src="./Images/installed.jpg" width=600>
+<img src="./Images/installed.jpeg" width=600>
 
 ### BOM
 
