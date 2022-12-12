@@ -7,7 +7,7 @@
 
 Size | Qty
 --- | ---
-Shore 70A Sorbothane Rings | 4
+Isolate It: Sorbothane Vibration Isolation Washer 70 Duro (0.5" ID - 1.5" OD - 0.5" Thick) | 4
 Self adhesive cork or similar anti skid (optional) | 4
 
 ### Printing
