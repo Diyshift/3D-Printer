@@ -10,7 +10,7 @@
 ### Instructions:
  
 Snap into extrusionslots to form wire channels. Cutouts models are provided for wire entry/exit. Shown here on vertical extrusions using the main channel clip for Trident:
-
+<img src="./Images/channels_installed2.jpg" width=600>
 <img src="./Images/channel-installed.jpg" width=600>
 
 These are a modified version of Eddie's fantastic LED clips that can be found here: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/eddie/LED_Bar_Clip
