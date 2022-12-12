@@ -6,6 +6,8 @@
 ### Printing
   * Default voron settings
   * No supports needed
+
+### Instructions:
  
 Snap halves together then line up the slot with the arrow on the lid. Insert the end of the ribbon cable and push until it stops. Use the large hole in the lid to wind up with your finger until just the blue tab is showing. Grasp knurled case and pull the ribbon when you need to remove it. 
 
