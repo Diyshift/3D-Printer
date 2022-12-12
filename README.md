@@ -1,2 +1,2 @@
-# Voron Stuff
-Voron Stuff, everything here is a work in progress. 
+# 3D Printing Stuff
+Excuse the mess, everything here is a work in progress. 
