@@ -1,5 +1,5 @@
 # Misumi Clip Cable Channels
- ### A collection of clips to 2020 extrusion to form channels to run/hide your wires 
+ ### A collection of clips for 2020 extrusion to form channels to run/hide your wires 
  
 <img src="./Images/Misumi Clip Channels.png" width=1000>
 
