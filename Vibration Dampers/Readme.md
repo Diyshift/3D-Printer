@@ -24,11 +24,11 @@ Add anti-skid cork or similar to bottom of cup and trim.  Place the sorbothane r
 
 <img src="./Images/sorbothane damper1.png" width=800>
 
-My Trident input shaper results before and after adding the dampers: 
+### My Trident input shaper results before and after adding the dampers: 
 
 <img src="./Images/Sorbothane_IS_result_Trident.png" width=800>
 
-Input shaper results with the ADXL mounted to my desk to measure its vibration: 
+## Input shaper results with the ADXL mounted to my desk to measure its vibration: 
 
 <img src="./Images/ResultsDesk.png" width=800>
 
