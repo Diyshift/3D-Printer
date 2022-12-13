@@ -1,4 +1,4 @@
-# SILICONE BRUSH MOD FOR DECONTAMINATOR
+# Silicone Brush Mod for Decontaminator
 
 A silicone brush mod for the Edwardyeeks decontaminator and brush mod that can be found here: https://github.com/VoronDesign/VoronUsers/tree/master/orphaned_mods/printer_mods
 
