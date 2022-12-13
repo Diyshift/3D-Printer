@@ -1,4 +1,4 @@
-# Trident Thermistor Corner
+# Trident Frame Thermistor Corner
  ### Mr. Thermistorfoot lets lets you cleanly run your thermistor from your electronics bay up through the center of your vertical extrusions for frame temp monitoring and thermal expansion compensation.  
 
 <img src="./Images/mrthermistorfoot.jpeg" width=600>
