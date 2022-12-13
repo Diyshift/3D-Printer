@@ -13,6 +13,6 @@ Size | Qty
 Alloy 910 or similar nylon filament | 1
 90 Shore A TPU filament | 1
 
-
+## WARNING: Do NOT print this in PETG, ABS or PLA. I have tested these and they will eventually crack or shatter. Always use safety glasses when using percussive tools. Not responsible for any injury or property damage from the use of this tool. 
 
 
