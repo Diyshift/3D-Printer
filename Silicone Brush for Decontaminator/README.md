@@ -32,7 +32,7 @@ Silicone Wrist Band | 1
 
 ### An M3 heat set insert is installed prior to assembly 
 
-<img src="./Images/brush dims.png" width=600>
+<img src="./Images/assembly.png" width=600>
 
 
 
