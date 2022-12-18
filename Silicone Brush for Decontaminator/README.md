@@ -34,9 +34,6 @@ Silicone Wrist Band | 1
 
 <img src="./Images/brush dims.png" width=600>
 
-### Cut each flap into thirds with a scissors to form the bristles after the flaps are installed and the screw secured. 
-
-<img src="./Images/brush right.png" width=600>
 
 
 The braceletes I used for this can be found here: https://www.amazon.com/gp/product/B09263TPL9/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1  However any silicone bracelet measuring approx 12mm wide and 2mm thick should work. If you have a soldering iron it is a good idea to test your braceletes first to ensure that they are in fact silicone and heat resistant enough to use for cleaning a heated nozzle. They should not melt when touched with the tip of the hot iron. 
