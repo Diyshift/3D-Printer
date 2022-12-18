@@ -27,8 +27,7 @@ Silicone Wrist Band | 1
 
 <img src="./Images/step3.jpeg" width=600>
 
-
-### An M3 heat set insert is installed prior to assembly 
+### Step 4. Insert heat set insert followed my alternating 3 and 4 bristle segments. Make sure segments are fully seated and install the M3x50 Screw
 
 <img src="./Images/assembly.png" width=800>
 
