@@ -31,6 +31,8 @@ Silicone Wrist Band | 1 (2 if longer bristles are desired)
 
 <img src="./Images/assembly.png" width=800>
 
-### Step 5. Install your new silicone brush and check brush height and adjust as needed. 
+### Step 5. Install your new silicone brush, check brush height and adjust as needed. 
 
 The wrist bands I used for this can be found here: https://www.amazon.com/gp/product/B09263TPL9/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1  However any silicone band measuring approx 12mm wide and 2mm thick should work. If you have a soldering iron it is a good idea to test your bands first to ensure that they are in fact silicone and heat resistant enough to use for cleaning a heated nozzle. They should not melt when touched with the tip of the hot iron. 
+
+Thank you Le0n#2959 for the helping brainstorm the cutting guide! :)
