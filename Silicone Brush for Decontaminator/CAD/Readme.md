@@ -1,1 +1,1 @@
-### Use this Fusion 360 model if you wish to change the segment length, width or number of bristles. You can change length, width, thickness, and # of bristles by using Modify>Change Parameters. 
+### Use this Fusion 360 model if you wish to modify the bursh segments. You can change length, width, thickness, and # of bristles by using Modify>Change Parameters within Fusion 360. 
