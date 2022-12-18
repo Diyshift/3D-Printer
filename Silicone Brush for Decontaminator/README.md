@@ -13,13 +13,19 @@ M3x50 | 1
 Heat-set Insert | 1
 Silicone Wrist Band | 1
 
+
 Step 1.  Use the printed cutting guide to form the bristles. Print both guides and alternate 3 and 4 bristles segments in the brush holder.
 
 <img src="./Images/step1.jpeg" width=600>
 
+Step 2. Use a sharp object to pierce the the segment via the hole in the cutting guide. 
+
 <img src="./Images/step2.jpeg" width=600>
 
+Step 3. Ensure the band is fully inserted in the guide and make the final cut to length. 
+
 <img src="./Images/step3.jpeg" width=600>
+
 
 <img src="./Images/brush side.png" width=600>
 
