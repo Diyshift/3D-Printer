@@ -12,7 +12,7 @@ Size | Qty
 --- | ---
 M3x50 | 1
 Heat-set Insert | 1
-Silicone Wrist Band | 1
+Silicone Wrist Band | 1 (2 if longer bristles are desired)
 
 
 ### Step 1.  Use the printed cutting guide to form the bristles. Print both guides and alternate 3 and 4 bristles segments in the brush holder.
@@ -33,4 +33,4 @@ Silicone Wrist Band | 1
 
 ### Step 5. Install your new silicone brush and check brush height and adjust as needed. 
 
-The braceletes I used for this can be found here: https://www.amazon.com/gp/product/B09263TPL9/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1  However any silicone bracelet measuring approx 12mm wide and 2mm thick should work. If you have a soldering iron it is a good idea to test your braceletes first to ensure that they are in fact silicone and heat resistant enough to use for cleaning a heated nozzle. They should not melt when touched with the tip of the hot iron. 
+The wrist bands I used for this can be found here: https://www.amazon.com/gp/product/B09263TPL9/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1  However any silicone band measuring approx 12mm wide and 2mm thick should work. If you have a soldering iron it is a good idea to test your bands first to ensure that they are in fact silicone and heat resistant enough to use for cleaning a heated nozzle. They should not melt when touched with the tip of the hot iron. 
