@@ -13,6 +13,13 @@ M3x50 | 1
 Heat-set Insert | 1
 Silicone Wrist Band | 1
 
+Step 1.  Use the printed cutting guide to form the bristles. I recommend printing both guides and alternating 3 and 4 bristles segments in the brush holder for more effective cleaning. 
+<img src="./Images/step1.jpeg" width=600>
+
+<img src="./Images/step2.jpeg" width=600>
+
+<img src="./Images/step3.jpeg" width=600>
+
 <img src="./Images/brush side.png" width=600>
 
 ### An M3 heat set insert is installed prior to assembly 
