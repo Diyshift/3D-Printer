@@ -1,6 +1,6 @@
-# A fidgety overengineerd way to keep your extrusions in place while adjusting Trident rear gantry extrusion height
+# A fidgety over engineered way to keep your extrusions in place while adjusting Trident rear gantry extrusion height
 
-<img src="./gantry adjuster.png" width=600>
+<img src="./Images/gantry adjuster.png" width=600>
 
 ### BOM
 
