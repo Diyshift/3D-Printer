@@ -1,12 +1,13 @@
 # A fidgety over engineered way to keep your extrusions in place while adjusting Trident rear gantry extrusion height
 
-<img src="./Images/gantry adjuster.png" width=600>
+<img src="./Images/gantry adjuster.png" width=800>
 
 ### BOM
 
 Size | Qty
 --- | ---
-M3x50 | 1
-Heat-set Insert | 1
-Silicone Wrist Band | 1 (2 if longer bristles are desired)
+M3x10 | 3
+M3x20 | 2
+M3 Hammer Nuts | 3
+
 
