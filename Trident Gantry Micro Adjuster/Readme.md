@@ -1,6 +1,6 @@
 # A fidgety over complicated way to keep your extrusions in place while adjusting Trident rear gantry extrusion height
 
-<img src="./Images/gantry adjuster.png" width=900>
+
 
 ### BOM
 
@@ -11,3 +11,4 @@ M3x20 | 2
 M3 Hammer Nuts | 3
 
 
+<img src="./Images/gantry adjuster.png" width=900>
