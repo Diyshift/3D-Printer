@@ -4,7 +4,10 @@
 <img src="./Images/thermistor.jpeg" width=600>
 
 ### BOM
-100K Ohm NTC 3950 glass bead thermistor. (bead should measure 1.6mm diameter x 3.3mm in length)
+100K Ohm NTC 3950 glass bead thermistor. (bead should measure approximately 1.6mm diameter x 3.3mm in length)
+
+Here are the ones I use in my printersfor this mod. 
+https://www.amazon.com/gp/product/B098TF372P/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
 ### Printing
   * Default voron settings
