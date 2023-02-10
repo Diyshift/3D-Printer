@@ -11,5 +11,13 @@
   * No supports needed
 
 ### Instructions:
+ Add a small dab of thermal grease to the thermistor before assembly. 
  
+printer.cfg example: 
+
+[temperature_sensor heatsink_temp]
+sensor_type: Generic 3950
+sensor_pin: 
+min_temp: 0
+max_temp: 90  #halt printer if ABS deflection temp is exceeded
 
