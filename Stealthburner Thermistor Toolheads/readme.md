@@ -1,5 +1,5 @@
 # Stealthburner Heatsink Thermistor Mod for Dragon Hotends
- ### Allows you to monitor the temperature of your heatsink where it mounts to the toolhead. Klipped can be configured to shutdown if this gets too hot in the event of a hotend fan failure.   
+ ### Allows you to monitor the temperature of your heatsink where it mounts to the toolhead. Klipper can be configured to shutdown if this gets too hot in the event of a hotend fan failure.   
 
 <img src="./Images/thermistor.jpeg" width=600>
 
