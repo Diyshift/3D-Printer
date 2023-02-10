@@ -4,12 +4,12 @@
 <img src="./Images/thermistor.jpeg" width=600>
 
 ### BOM
-100K Ohm NTC 3950
+100K Ohm NTC 3950 glass bead thermistor. 
 
 ### Printing
   * Default voron settings
   * No supports needed
-  * Only rear portion of Stealthburner is needed to inplement this mod
+  * Only the included rear portion of Stealthburner toolhead is needed to inplement this mod
 
 ### Instructions:
  Add a small dab of thermal grease to the thermistor before assembly. 
