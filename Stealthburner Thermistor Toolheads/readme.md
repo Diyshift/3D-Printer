@@ -14,7 +14,7 @@
 ### Instructions:
  Add a small dab of thermal grease to the thermistor before assembly. 
  
- Set max_temp: to something around 50 to test and make sure printer shuts down in max temp situation. Once verified set to 90 and test from there to make sure that you don't get any false shutdowns during a print.  
+After connecting the thermistor to your control board add your thermistor entry to your printer.cfg file. I recommend setting at a lower shutdown temp to test before setting your final max_temp value
  
 printer.cfg example: 
 
@@ -22,9 +22,9 @@ printer.cfg example:
 
 sensor_type: Generic 3950
 
-sensor_pin:      #port that sthermistor is plugged into
+sensor_pin:      #port that thermistor is plugged into
 
 min_temp: 0
 
-max_temp: 90     #halt printer if ABS deflection temp is exceeded 
+max_temp: 50     #halt printer if ABS deflection temp is exceeded set to 90 after sucessful shutdown test at 50
 
