@@ -17,7 +17,7 @@ https://www.amazon.com/gp/product/B098TF372P/ref=ppx_yo_dt_b_search_asin_title?i
 ### Instructions:
  Add a small dab of thermal grease to the thermistor before assembly. 
  
-After connecting the thermistor to your control board add your thermistor entry to your printer.cfg file. I recommend setting at a lower shutdown temp to test before setting your final max_temp value
+After connecting the thermistor to your control board add the thermistor entry to your printer.cfg file. I recommend setting at a lower shutdown temp to test before setting your final max_temp value
  
 printer.cfg example: 
 
