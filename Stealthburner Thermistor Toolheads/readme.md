@@ -19,9 +19,9 @@ printer.cfg example:
 
 sensor_type: Generic 3950
 
-sensor_pin: 
+sensor_pin:      #port that sthermistor is plugged into
 
 min_temp: 0
 
-max_temp: 90  #halt printer if ABS deflection temp is exceeded
+max_temp: 90     #halt printer if ABS deflection temp is exceeded
 
