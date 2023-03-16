@@ -20,7 +20,7 @@ Acid-Free Activated Carbon
   * No supports needed
 
 ### Instructions:
-For Trident mount duct to 2020 rear extrusion using the two rearmost through holes, M3x8 screws and hammer nuts. Then secure fan mount and stack the remaining modules. 
+In addition to shortening the modules, this remix relocates the wiring channels for cleaner wiring when used on Voron printers as well as mounting holes to secure it to the rear 2020 extrusion. For Trident mount the duct to 2020 rear extrusion using the two rearmost through holes, M3x8 screws and hammer nuts. Then secure fan mount and stack the remaining modules. 
 
 <img src="./Images/installed.jpeg" width=600>
 
