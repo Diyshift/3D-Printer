@@ -22,8 +22,6 @@ Acid-Free Activated Carbon
 ### Instructions:
 For Trident mount duct to 2020 rear extrusion using the two rearmost through holes, M3x8 screws and hammer nuts. Then secure fan mount and stack the remaining modules. 
 
-<img src="./Images/hammernuts.jpeg" width=600>
-
 <img src="./Images/installed.jpeg" width=600>
 
 This version for use with this size HEPA filter only: https://www.amazon.com/gp/product/B0782T7L6P/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
