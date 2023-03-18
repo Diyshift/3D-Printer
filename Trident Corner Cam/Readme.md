@@ -26,7 +26,7 @@ Pi Cam https://www.amazon.com/gp/product/B013JTY8WY/ref=ppx_yo_dt_b_search_asin_
 
 ### Instructions:
 
-  * Mount Top Bracket to extrusions using M3x8 SHCS and hammer nuts. 
+  * Mount Top Bracket to extrusions using M3x8 SHCS and hammer nuts. *this version is for left side mount only
   * Install Heatset in Yoke then attach to Top Bracket using M3x6 BHCS. 
   * Insert FFC cable into the Pi cam module and secure. 
   * Pass FFC cable through rectangular slot in bottom of Cam Body. 
