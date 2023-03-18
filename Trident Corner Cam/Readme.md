@@ -1,6 +1,6 @@
 # Trident Corner Pi Cam 
  ### 
-<img src="./Images/main.jpg" width=600>
+<img src="./Images/Main.jpg" width=600>
 
 ### BOM
 
