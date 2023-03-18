@@ -1,7 +1,7 @@
 # Trident Corner Pi Cam 
  ### 
-<img src="./Images/Main.jpg" width=600>
 
+<img src="./Images/Trident Cam Mount.jpg" width=600>
 ### BOM
 
 Size | Qty
@@ -21,8 +21,8 @@ M2x6 Socket Head Self-Tapping Screws | 4
 
 ### Instructions:
  
+<img src="./Images/Main.jpg" width=600>
 
-<img src="./Images/Trident Cam Mount.jpg" width=600>
 <img src="./Images/Exit_Port.jpg" width=600>
 
 <img src="./Images/installed.jpeg" width=600>
