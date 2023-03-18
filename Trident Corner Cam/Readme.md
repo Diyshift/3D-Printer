@@ -32,7 +32,7 @@ Pi Cam https://www.amazon.com/gp/product/B013JTY8WY/ref=ppx_yo_dt_b_search_asin_
   * Pass FFC cable through rectangular slot in bottom of Cam Body. 
   * Insert Pi cam board into Cam body then install cover securing it with the M2x8 Socket head self tapping screws. 
   * Secure the completed camera module to the Yoke using 2 M3x6 BHCS threading them into the plastic of the Cam Body. Tighten only enough to hold the camera in      position, do not overtighten. 
-  * Snap-in FFC cable channels are included to route your FFC cable down the vertical corner extrusion and into your electronics bay. There should be enough clearance to pass the FFC between the top deck panel and the frame. Usa a 90° bend in the FFC cable and conseal with the exit port channels as shown. 
+  * Snap-in FFC cable channels are included to route your FFC cable down the vertical corner extrusion and into your electronics bay. There should be enough clearance to pass the FFC between the top deck panel and the frame. Use a 90° bend in the FFC cable and conseal with the exit port channels as shown. 
  
 <img src="./Images/Main.jpg" width=600>
 
