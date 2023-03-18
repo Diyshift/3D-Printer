@@ -1,6 +1,7 @@
 # Trident Corner Pi Cam 
  ### 
 <img src="./Images/TridentCam.jpg" width=600>
+View on 300 Trident with 150° lens
 <img src="./Images/Trident Cam Mount.jpg" width=600>
 ### BOM
 
