@@ -21,13 +21,13 @@ M2x6 Socket Head Self-Tapping Screws | 4
 
 ### Instructions:
 
-  *Mount Top Bracket to extrusions using M3x8 SHCS and hammer nuts. 
-  *Install Heatset in Yoke then attach to Top Bracket using M3x6 BHCS. 
-  *Insert FFC cable into the Pi cam module and secure. 
-  *Pass FFC cable through rectangulas clot in bottom of Cam Body. 
-  *Insert Pi cam board into Cam body then install cover securing it with the M2x8 Socket head self tapping screws. 
-  *Secure the completed camera module to the Yoke using 2 M3x6 BHCS threading them into the plastic of the Cam Body. Tighten only enough to hold the camera in      position, do not overtighten. 
-  *Snap-in FFC cable channels are included to route your FFC cable down the vertical corner extrusion and into your electronics bay. There should be enough clearance to pass the FFC between the top deck panel and the frame. Usa a 90° bend in the FFC cable and conseal with the exit port channels as shown. 
+  * Mount Top Bracket to extrusions using M3x8 SHCS and hammer nuts. 
+  * Install Heatset in Yoke then attach to Top Bracket using M3x6 BHCS. 
+  * Insert FFC cable into the Pi cam module and secure. 
+  * Pass FFC cable through rectangulas clot in bottom of Cam Body. 
+  * Insert Pi cam board into Cam body then install cover securing it with the M2x8 Socket head self tapping screws. 
+  * Secure the completed camera module to the Yoke using 2 M3x6 BHCS threading them into the plastic of the Cam Body. Tighten only enough to hold the camera in      position, do not overtighten. 
+  * Snap-in FFC cable channels are included to route your FFC cable down the vertical corner extrusion and into your electronics bay. There should be enough clearance to pass the FFC between the top deck panel and the frame. Usa a 90° bend in the FFC cable and conseal with the exit port channels as shown. 
  
 <img src="./Images/Main.jpg" width=600>
 
