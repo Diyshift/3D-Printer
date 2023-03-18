@@ -15,6 +15,9 @@ M3 Hammer Nuts                       | 1
 M3 Heat Set Insert                   | 1
 M2x6 Socket Head Self-Tapping Screws | 4
 
+https://www.amazon.com/gp/product/B013JTY8WY/ref=ppx_yo_dt_b_search_asin_title?
+https://www.amazon.com/gp/product/B07FXF9Y1V/ref=ppx_yo_dt_b_search_asin_title?
+
 ### Printing
   * Default voron settings
   * No supports needed
@@ -33,4 +36,4 @@ M2x6 Socket Head Self-Tapping Screws | 4
 
 <img src="./Images/Exit_Port.jpg" width=600>
 
-<img src="./Images/installed.jpeg" width=600>
+
