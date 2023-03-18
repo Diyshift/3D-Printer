@@ -20,6 +20,8 @@ Pi Cam https://www.amazon.com/gp/product/B013JTY8WY/ref=ppx_yo_dt_b_search_asin_
 
 150° Lens https://www.amazon.com/gp/product/B07FXF9Y1V/ref=ppx_yo_dt_b_search_asin_title?
 
+Long FFC cable https://www.amazon.com/gp/product/B088CVNQHL/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
 ### Printing
   * Default voron settings
   * No supports needed
