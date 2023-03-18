@@ -1,6 +1,6 @@
 # Trident Corner Pi Cam 
  ### 
-<img src="./Images/shortybento.jpg" width=600>
+<img src="./Images/main.jpg" width=600>
 
 ### BOM
 
@@ -20,6 +20,9 @@ M2x6 Socket Head Self-Tapping Screws | 4
   * No supports needed
 
 ### Instructions:
-In addition to shortening the modules, this remix relocates the wiring channels for cleaner wiring when used on Voron printers as well as mounting holes to secure it to the rear 2020 extrusion. For Trident mount the duct to 2020 rear extrusion using the two rearmost through holes, M3x8 screws and hammer nuts. Then secure fan mount and stack the remaining modules. 
+ 
+
+<img src="./Images/Trident Cam Mount.jpg" width=600>
+<img src="./Images/Exit_Port.jpg" width=600>
 
 <img src="./Images/installed.jpeg" width=600>
