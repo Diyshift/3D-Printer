@@ -12,6 +12,7 @@ Voron pcb_din_clip                       | 1
 M2x6 Socket Head Self-Tapping Screws | 6
 
 Dual Channel Relay: https://www.amazon.com/gp/product/B078478SZ9/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
 Single Channel Relay: https://www.amazon.com/gp/product/B00LW15A4W/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
 ### Printing
