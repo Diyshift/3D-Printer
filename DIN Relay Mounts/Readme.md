@@ -17,6 +17,9 @@ Single Channel:  20mm x 45mm
 
 Dual Channel:    33.25mm x 45mm
 
+
+DIN Clip: https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Electronics_Bay/pcb_din_clip_x3.stl
+
 Dual Channel Relay: https://www.amazon.com/gp/product/B078478SZ9/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
 Single Channel Relay: https://www.amazon.com/gp/product/B00LW15A4W/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
