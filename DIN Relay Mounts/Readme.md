@@ -2,7 +2,7 @@
  ### Mount single or dual channel relays on electonics bay DIN rails
 <img src="./Images/relay mount double.jpg" width=600>
 
-<img src="./Images/relay mount bottom.jpg" width=600>
+<img src="./Images/relay mount bottom.jpeg" width=600>
 ### BOM
 
 Size | Qty
