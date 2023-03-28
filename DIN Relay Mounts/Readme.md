@@ -1,5 +1,5 @@
-# Trident Corner Pi Cam 
- ### 
+# DIN Relay Mounts 
+ ### Mount single or dual channel relays on electonics bay DIN rails
 <img src="./Images/relay mount double.jpg" width=600>
 
 <img src="./Images/relay mount bottom.jpg" width=600>
