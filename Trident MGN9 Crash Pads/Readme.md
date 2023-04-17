@@ -4,10 +4,13 @@
 <img src="./Images/crahspad1.jpeg" width=600>
 
 <img src="./Images/crashpad.jpeg" width=600>
+
 ### BOM
 
 Size | Qty
 --- | ---
+Crash Pad A.stl                | 3
+Crash Pad B.stl                | 3
 M3x16 Socket Head Cap Screws   | 3
 M3x4 Heat Set Inserts          | 3
 
