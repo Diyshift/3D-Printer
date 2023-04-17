@@ -1,9 +1,9 @@
 
 # Trident MGN9 Crash Pads
  ### Limit Z travel to minimize damage to X gantry and components in the event of a homing crash
-<img src="./Images/" width=600>
+<img src="./Images/crashpad.jpg" width=600>
 
-<img src="./" width=600>
+<img src="./Images/crashpad1.jpg" width=600>
 ### BOM
 
 Size | Qty
