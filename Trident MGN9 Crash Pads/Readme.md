@@ -1,7 +1,7 @@
 
 # Trident MGN9 Z Crash Pads
 
- ### Limit Z travel to minimize damage to X gantry and components in the event of a homing crash
+ ### Limit Z travel to minimize damage to X gantry and components in the event of a homing crash. Whoa means whoa!
 <img src="./Images/crahspad1.jpeg" width=600>
 
 <img src="./Images/crashpad.jpeg" width=600>
