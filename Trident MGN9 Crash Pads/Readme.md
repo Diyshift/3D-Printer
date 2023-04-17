@@ -13,7 +13,7 @@ Size | Qty
 Printed Crash Pad A.stl        | 3
 Printed Crash Pad B.stl        | 3
 M3x16 Socket Head Cap Screws   | 3
-M3x4 Heat Set Inserts          | 3
+M3x5x4 Heat Set Inserts        | 3
 
 ### Printing
   * Default voron settings
