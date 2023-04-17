@@ -26,8 +26,9 @@ M3x4 Heat Set Inserts          | 3
   * calibrate_z (only if using auto Z offset)
   * Center toolhead over bed and move to Z0 
   * Wipe any grease off of linear Z rail above the Z carriage and attach the crash pad as shown
-  * Place an M3 hex key between the crash pad and the Z carriage to set the height
+  * Place 2-3mm hex key between the crash pad and the Z carriage to set the height
   * Tighten firmly and check to make sure it does not move
+  * Now if z homing fails for any reason your z travel will be limited to Z-3. While this won't save your PEI it will stall the motors and prevent twisting your X extrusion and or breaking your X carriage components. 
   
    
 
