@@ -22,7 +22,8 @@ M3x4 Heat Set Inserts          | 3
 ### Instructions:
 
   * Install the tickest print bed/surface you plan to use. 
-  * Home printer and  Z-tilt 
+  * Home printer, Z-tilt
+  * calibrate_z (only if using auto Z offset)
   * Center toolhead over bed and move to Z0 
   * Wipe any grease off of linear Z rail above the Z carriage and attach the crash pad as shown
   * Place an M3 hex key between the crash pad and the Z carriage to set the height
