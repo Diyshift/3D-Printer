@@ -29,7 +29,7 @@ Long FFC cable https://www.amazon.com/gp/product/B088CVNQHL/ref=ppx_yo_dt_b_sear
 ### Instructions:
 
   * Mount Top Bracket to extrusions using M3x8 SHCS and hammer nuts. *this version is for left side mount only
-  * Install Heatset in Yoke then attach to Top Bracket using M3x6 BHCS. 
+  * Install Heatset in yoke then attach to Top Bracket using M3x6 BHCS. 
   * Insert FFC cable into the Pi cam module and secure. 
   * Pass FFC cable through rectangular slot in bottom of Cam Body. 
   * Insert Pi cam board into Cam body then install cover securing it with the M2x8 Socket head self tapping screws. 
