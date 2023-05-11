@@ -9,6 +9,7 @@ Size | Qty
 M3x10 | 3
 M3x20 | 2
 M3 Hammer Nuts | 3
+M3 Nuts | 2
 
 
 <img src="./Images/gantry adjuster.png" width=900>
