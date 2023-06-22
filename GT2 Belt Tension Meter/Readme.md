@@ -2,7 +2,7 @@
 
 <img src="./Images/meteronbelt.JPG" width=600>
 
-
+<img src="./Images/assembly.gif" width=400>
 
 ### DETAILS:
 This 3D printed tension meter is designed to measure belt deflection to determine belt tension for Gates 6 and 9mm GT2 belts. The goal is to eliminate the need for phone apps that use frequency to determine tension and to provide an easily quantifiable and repeatable number to use when tensioning belts on a 3D printer. The repeatability and accuracy of this meter will be partially dependent on the build quality but you can expect  approximately ± 1.0N (0.25lb) accuracy on a carefully built and calibrated meter. 
