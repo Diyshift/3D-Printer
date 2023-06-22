@@ -52,7 +52,7 @@ Need hardware or a completely assembled and tested meter?
 [Complete Assembled and Calibrated Meters](https://www.etsy.com/listing/1508462271/belt-tension-meter-for-3d-printers?click_key=c4e5ac4274502a0272ba59451d81808205460597%3A1508462271&click_sum=88f43dcf&ref=shop_home_active_2&frs=1)
 
 
-
+<img src="./Images/metervid.gif" width=600>
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
