@@ -1,3 +1,6 @@
 # GT2 Belt Tension Meter 
- ### Measure your belt tension. 
+
+<img src="./Images/meteronbelt.JPG" width=600>
+
+ ### Measure your belt tension 
 
