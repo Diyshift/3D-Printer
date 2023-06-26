@@ -1,4 +1,4 @@
-# GT2 Belt Tension Meter 
+# GT2 Belt Tension Meter (RC2)
 
 <img src="./Images/meteronbelt.JPG" width=600>
 
@@ -16,8 +16,8 @@ M3x7 Button Head Cap Screw (or M3x6 BHCS if available) | 1
 M3x25 Socket Head Cap Screw | 1
 M3x8x0.6 Washer | 1
 M2 Socket Head  Self Tapping Screws | 2
-0.81mm x 90mm (0.032” x 4”) Tempered steel music wire | 1
-6mm OD x 0.6 wire dia. x 50mm length compression spring | 1
+[0.81mm x 90mm (0.032” x 4”) Tempered steel music wire](https://www.amazon.com/dp/B002WXGIHC?psc=1&ref=ppx_yo2ov_dt_b_product_details) | 1
+[6mm OD x 0.6 wire dia. x 50mm length compression spring](https://www.amazon.com/dp/B076LTYY5K?psc=1&ref=ppx_yo2ov_dt_b_product_details) | 1
 
 ### TOOLS:
  * M3 drill bit and holder 
