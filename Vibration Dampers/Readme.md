@@ -3,6 +3,8 @@
 
 <img src="./Images/installed.jpeg" width=600>
 
+<img src="./Images/sorbo.gif" width=600>
+
 ### BOM
 
 Size | Qty
