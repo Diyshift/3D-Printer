@@ -27,7 +27,7 @@ M2 Socket Head  Self Tapping Screws | 2
  * Hobby knife (X-Acto) 
  * Small flat needle file (optional)
  * Small triangular smooth cut file (optional for cleaning up gear teeth)
- * Cutter capable of cutting hardened music wire (don’t NOT use your nice flush cutters for this)
+ * Cutter capable of cutting hardened music wire (do NOT use your nice flush cutters for this)
 
 ### PRINT SETTINGS:
  * Print in ABS for best results
