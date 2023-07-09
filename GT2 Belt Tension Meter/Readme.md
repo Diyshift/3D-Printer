@@ -1,8 +1,10 @@
 # GT2 Belt Tension Meter (RC2)
 
-<img src="./Images/meteronbelt.JPG" width=600>
+ 
+  <img src="./Images/meteronbelt.JPG" width=600>
+  <img src="./Images/metervid.gif" width=600>
 
-<img src="./Images/metervid.gif" width=600>
+
 
 ### DETAILS:
 This 3D printed tension meter is designed to measure belt deflection to determine belt tension for Gates 6 and 9mm GT2 belts. The goal is to eliminate the need for phone apps that use frequency to determine tension and to provide an easily quantifiable and repeatable number to use when tensioning belts on a 3D printer. The repeatability and accuracy of this meter will be partially dependent on the build quality but you can expect  approximately ± 1.0N (0.25lb) accuracy on a carefully built and calibrated meter. 
@@ -146,13 +148,12 @@ Calibration wire can be stowed on the center pin with wire secured beneath the s
 
 Note:  Depending on your style of printer your belt tension may increase slightly when utilizing a heated chamber so keep this in mind when selecting tensions in the higher range. Check your belts after a preheat to be sure you are not exceeding safe limits. When checking tension always remember to run the measured axis through its full range of travel before measuring to normalize the tension in the belt path. 
 
-
-
-
+<img src="./Images/table1.png" width=800>
+<img src="./Images/table2.png" width=800>
+<img src="./Images/stepper.jpg" width=800>
   
-[COMPLETE ASSEMBLY AND USE INSTRUCTIONS](Manual/GT2_Tensiometer_Assembly_Manual.pdf)
 
-Need hardware or a completely assembled and tested meter?
+### Need hardware or a completely assembled and tested meter?
 
 [Hardware Kits](https://www.etsy.com/listing/1508474957/hardware-kit-for-diy-3d-printer-belt?click_key=44e1f5f41d658941f698c878da3f2724a57067ab%3A1508474957&click_sum=25d1381a&ref=shop_home_active_1)
 
@@ -161,6 +162,9 @@ Need hardware or a completely assembled and tested meter?
 [Complete Assembled and Calibrated Meters](https://www.etsy.com/listing/1508462271/belt-tension-meter-for-3d-printers?click_key=c4e5ac4274502a0272ba59451d81808205460597%3A1508462271&click_sum=88f43dcf&ref=shop_home_active_2&frs=1)
 
 
+[Downloadable Manual](Manual/GT2_Tensiometer_Assembly_Manual.pdf)
+
+<img src="./Images/logo.png" width=200>
 
 
 This work is licensed under a
