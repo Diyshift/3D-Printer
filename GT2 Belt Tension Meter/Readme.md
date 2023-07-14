@@ -11,15 +11,23 @@ This 3D printed tension meter is designed to measure belt deflection to determin
 
 Tested on the following printers: Voron Trident, 2.4, V.0, Salad Fork, and Switchwire.  Note: for other non listed printers please ensure you have clear access to at least 150mm of belt. This meter will not work on printers with belts that run inside of the extrusion channels. 
 
+Complete Assembled and Calibrated Meters Available [Here](https://www.etsy.com/listing/1508462271/belt-tension-meter-for-3d-printers?click_key=c4e5ac4274502a0272ba59451d81808205460597%3A1508462271&click_sum=88f43dcf&ref=shop_home_active_2&frs=1)
+
+### Ready to build your own? 
+
 ### BOM:
 Item | Qty
 --- | ---
-M3x7 Button Head Cap Screw (or M3x6 BHCS if available) | 1
+M3x7 Button Head Cap Screw (M3x6 BHCS also works) | 1
 M3x25 Socket Head Cap Screw | 1
 M3x8x0.6 Washer | 1
 M2x10 Socket Head  Self Tapping Screws | 2
 [0.81mm x 90mm (0.032” x 4”) Tempered steel music wire](https://www.amazon.com/dp/B002WXGIHC?psc=1&ref=ppx_yo2ov_dt_b_product_details) | 1
 [6mm OD x 0.6mm wire dia. x 50mm free length compression spring with 20 active coils (0.35N/mm spring rate)](https://www.amazon.com/dp/B076LTYY5K?psc=1&ref=ppx_yo2ov_dt_b_product_details) | 1
+Complete Set of Printed Parts from This [Repo](https://github.com/Diyshift/3D-Printer/tree/main/GT2%20Belt%20Tension%20Meter/STLs)
+
+
+Complete BOM Hardware Kits Available [Here](https://www.etsy.com/listing/1508474957/hardware-kit-for-diy-3d-printer-belt?click_key=44e1f5f41d658941f698c878da3f2724a57067ab%3A1508474957&click_sum=25d1381a&ref=shop_home_active_1)
 
 ### TOOLS:
  * M3 drill bit and holder 
@@ -153,16 +161,6 @@ Note:  Depending on your style of printer your belt tension may increase slightl
 <img src="./Images/stepper.jpg" width=800>
   
 
-### Need hardware or a completely assembled and tested meter?
-
-[Hardware Kits](https://www.etsy.com/listing/1508474957/hardware-kit-for-diy-3d-printer-belt?click_key=44e1f5f41d658941f698c878da3f2724a57067ab%3A1508474957&click_sum=25d1381a&ref=shop_home_active_1)
-
-
-
-[Complete Assembled and Calibrated Meters](https://www.etsy.com/listing/1508462271/belt-tension-meter-for-3d-printers?click_key=c4e5ac4274502a0272ba59451d81808205460597%3A1508462271&click_sum=88f43dcf&ref=shop_home_active_2&frs=1)
-
-
-[Downloadable Manual](Manual/GT2_Tensiometer_Assembly_Manual.pdf)
 
 <img src="./Images/logo.png" width=200>
 
