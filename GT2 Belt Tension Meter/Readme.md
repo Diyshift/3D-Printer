@@ -24,7 +24,7 @@ M3x8x0.6 Washer | 1
 M2x10 Socket Head  Self Tapping Screws | 2
 [0.81mm x 90mm (0.032” x 4”) Tempered steel music wire](https://www.amazon.com/dp/B002WXGIHC?psc=1&ref=ppx_yo2ov_dt_b_product_details) | 1
 [6mm OD x 0.6mm wire dia. x 50mm free length compression spring with 20 active coils (0.35N/mm spring rate)](https://www.amazon.com/dp/B076LTYY5K?psc=1&ref=ppx_yo2ov_dt_b_product_details) | 1
-Complete Set of Printed Parts from This [Repo](https://github.com/Diyshift/3D-Printer/tree/main/GT2%20Belt%20Tension%20Meter/STLs)
+Complete Set of Printed [Parts](https://github.com/Diyshift/3D-Printer/tree/main/GT2%20Belt%20Tension%20Meter/STLs) | 1
 
 
 Complete BOM Hardware Kits Available [Here](https://www.etsy.com/listing/1508474957/hardware-kit-for-diy-3d-printer-belt?click_key=44e1f5f41d658941f698c878da3f2724a57067ab%3A1508474957&click_sum=25d1381a&ref=shop_home_active_1)
