@@ -16,7 +16,7 @@ M3x50 | 1
 Heat-set Insert | 1
 Silicone Wrist Band | 1 (2 if longer bristles are desired)
 
-
+[CAD for alternative bristle guides](https://github.com/Diyshift/3D-Printer/tree/main/Silicone%20Brush%20for%20Decontaminator/CAD)
 
 ### Step 1.  Use the printed cutting guide to form the bristles. Print both guides and alternate 3 and 4 bristles segments in the brush holder.
 
