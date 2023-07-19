@@ -160,9 +160,21 @@ Note:  Depending on your style of printer your belt tension may increase slightl
 <img src="./Images/table2.png" width=800>
 <img src="./Images/stepper.jpg" width=800>
   
-
+### CREDITS
+Sincere thanks to the following for donating their time, plastic, and patience in helping to test and provide feedback on this design: 
+ * Le0n2959
+ * Moogoo (oogoom)
+ * Yeri (yeriwyn)
+ * Dokuu
+ * Xivima
+ * Mc-Red
+ * Lillianamirrors
+ * Pnewb
+   
 
 <img src="./Images/logo.png" width=200>
+
+ 
 
 
 This work is licensed under a
