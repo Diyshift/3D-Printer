@@ -1,6 +1,10 @@
 # Silicone Brush Mod for Decontaminator
 
+
+
+
 A silicone brush mod for the Edwardyeeks decontaminator and brush mod that can be found [here](https://github.com/VoronDesign/VoronUsers/tree/master/orphaned_mods/printer_mods)
+
 
 If you need this brush for your V0.2 check out MurseyThings remix [here](https://www.printables.com/model/522524-v02-nozzle-wiper-silicone-remix)
 
@@ -37,5 +41,9 @@ Silicone Wrist Band | 1 (2 if longer bristles are desired)
 ### Step 5. Install your new silicone brush, check brush height and adjust as needed. 
 
 The wrist bands I used for this can be found here: https://www.amazon.com/gp/product/B09263TPL9/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1  However any silicone band measuring approx 12mm wide and 2mm thick should work. If you have a soldering iron it is a good idea to test your bands first to ensure that they are in fact silicone and heat resistant enough to use for cleaning a heated nozzle. They should not melt when touched with the tip of the hot iron. 
+
+<img src="./Images/RB.jpg" width=600>
+
+Rainbow barf brush image courtesy of Discord user brad__r 
 
 Thank you Le0n#2959 for the helping brainstorming the cutting guide! :)
