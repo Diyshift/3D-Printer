@@ -128,8 +128,10 @@ Complete BOM Hardware Kits Available [Here](https://www.etsy.com/listing/1508474
  ### ALTERNATIVE CALIBRATION:  
 If straight tempered music wire is not available a suitable weight and spare section of belt can be used. A gallon plastic water jug and scale works well for this. Do not trust weights marked on fitness equipment, weigh them first. 
 
-1. Suspend a 1.36Kg (3lb) weight from a 250mm section of GT2 belt and measure the tension with the belt teeth in contact with the two outer pins on the meter as shown below in step 3.
+1. Suspend a 1.36Kg (3lb) weight vertically from a 250mm section of GT2 belt and measure the tension with the belt teeth in contact with the two outer pins on the meter as shown below in step 3.
 2. Adjust the preload screw as needed until the meter reads consistently across several measurements.  2.1 for standard rubber or 2.2 EPDM high temperature belt.
+
+   <img src="./Images/altcalibration.jpg" width=600>
 
 Calibration wire can be stowed on the center pin with wire secured beneath the slides wire keeper. 
 
