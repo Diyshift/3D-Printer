@@ -20,7 +20,7 @@ Self adhesive cork or similar anti skid (optional) | 4
 
 ### Instructions:
  
-Add anti-skid cork or similar to bottom of cup and trim.  Place the sorbothane ring in the cup, then install the cap as shown and install underneath your stock pinter feet.   
+Add anti-skid cork or similar to bottom of cup and trim.  Place the sorbothane ring in the cup, then install the cap as shown and install underneath your stock printer feet.   
 
 
 
