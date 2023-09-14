@@ -104,7 +104,7 @@ Complete BOM Hardware Kits Available [Here](https://www.etsy.com/listing/1508474
 22. Again, tighten the screw until just snug then back off until the needle swings freely.
 23. Cycle the slide 20-30 times to make sure grease is distributed and the gears mesh.
 24. Slowly cycle the slide several times and observe the needle’s motion. It should be smooth throughout its entire range with no sticking or jumping.  Adjust screw securing needle as needed to facilitate free movement.
-25. Finally, install the M3x25 SHCS into the slide plunger as shown. This screw is threaded into plastic (unless the optional heat set slide is printed). Tighten until the head is flush with the plunger. Your meter is now assembled and ready for calibration.
+25. Finally, install the M3x25 SHCS Preload Screw into the slide plunger as shown. This screw is threaded into plastic. Tighten until the head is flush with the plunger. Your meter is now assembled and ready for calibration.
 
 <img src="./Images/12preload.png" width=800>
 *Note: If your meter dial is not resting on the zero mark you may need to loosen the two self tapping screws slightly in the spring block move needle to zero position then tighten screws back down. 
@@ -121,8 +121,8 @@ Complete BOM Hardware Kits Available [Here](https://www.etsy.com/listing/1508474
 <img src="./Images/14calibrate.png" width=700>
 
 4. Slowly release the plunger and note the reading on the dial. Lightly tapping or “pumping” the plunger handle can help to settle the needle and get a better reading.
-5. Tighten the screw one turn then depress and release the plunger again. Note that the reading has changed.
-6. Repeat steps 3 and 4 until your meter consistently reads 1.9 when checking the deflection of the music wire.
+5. Tighten the preload screw one turn then depress and release the plunger again. Note that the reading has changed.
+6. Repeat steps 3 - 5 until your meter consistently reads 1.9 when checking the deflection of the music wire.
 7. Your meter is now calibrated and ready for use.
 
  ### ALTERNATIVE CALIBRATION:  
