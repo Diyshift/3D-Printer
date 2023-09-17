@@ -29,7 +29,7 @@ M2x10 Socket Head  Self Tapping Screws | 2
 Complete Set of Printed [Parts](https://github.com/Diyshift/3D-Printer/tree/main/GT2%20Belt%20Tension%20Meter/STLs) | 1
 
 
-Complete BOM Hardware Kits Available Here: [<img src="./Images/pfmakes60px.png" width=77>](https://www.etsy.com/listing/1508474957/hardware-kit-for-diy-3d-printer-belt?click_key=44e1f5f41d658941f698c878da3f2724a57067ab%3A1508474957&click_sum=25d1381a&ref=shop_home_active_1) And Here: [<img src="./Images/west60px.png" width=80>](https://west3d.com/collections/vendors?q=PF%20Makes)
+Complete BOM Hardware Kits Available Here: [<img src="./Images/pfmakes60px.png" width=77>](https://www.etsy.com/listing/1508474957/hardware-kit-for-diy-3d-printer-belt?click_key=44e1f5f41d658941f698c878da3f2724a57067ab%3A1508474957&click_sum=25d1381a&ref=shop_home_active_1) And Here: [<img src="./Images/west60px.png" width=80>](https://west3d.com/products/hardware-kit-for-diy-3d-printer-belt-tension-meter-by-pf-makes)
 
 ### TOOLS:
  * M3 drill bit and holder 
