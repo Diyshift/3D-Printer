@@ -57,9 +57,13 @@ Hardware Kits available from the following: [<img src="./Images/pfmakes60px.png"
 <img src="./Images/assembly.gif" width=600>
 
 1. Clean up printed parts as needed. Correct any zits, blobs or other print defects using a small file or hobby knife. Pay special attention to the gear teeth on the slide and needle. Carefully remove any stringing or blobs taking care not to change the tooth profile.
-2. Check the fit between the slide and base. It should be loose enough to drop into the base freely without using force.
-3. Using a cotton swab, apply a light layer of grease to the spring channel  in the shaded area shown below. Do not lubricate the meter Base or Slide dovetail area as stiction may occur causing inaccurate readings.
-4. Insert the spring, spacer, and spring as shown below.
+2. Check the fit between the slide and base. It should be loose enough to drop into the base freely without using force. The slide is designed to "float" in the base when in use. See gif below for proper fit. 
+   
+   <img src="./Images/slidefit.gif" width=400>
+
+   If your slide it too tight you can adjust the fit in the base by shaving the dovetail in tiny increments with a triangular file on the angled face opposite the dial. 
+4. Using a cotton swab, apply a light layer of grease to the spring channel  in the shaded area shown below. Do not lubricate the meter Base or Slide dovetail area as stiction may occur causing inaccurate readings.
+5. Insert the spring, spacer, and spring as shown below.
 
 <img src="./Images/2slidelube.png" width=600>
 
