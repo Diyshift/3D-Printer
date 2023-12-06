@@ -42,7 +42,7 @@ Hardware Kits available from the following: [<img src="./Images/pfmakes60px.png"
  * Cutter capable of cutting hardened music wire (do NOT use your nice flush cutters for this)
 
 ### PRINT SETTINGS:
- * Print in ABS for best results
+ * Print in ABS or ASA for best results
  * Slide, needle and spring spacer components work best when printed on smooth or satin PEI
  * Layer height 0.2mm
  * 4 perimeters 5 top and 5 bottom layers
