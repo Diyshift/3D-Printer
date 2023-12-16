@@ -1,5 +1,5 @@
 
-# Trident Beefy Idler Gears
+# Trident Beefy Front Idler Gears
  ### Gears to keep your top and bottom tension adjustment screws in sync. For Clee's fantastic BFI idlers found here: https://github.com/clee/VoronBFI
 <img src="./Images/beefgears.jpg" width=600>
 <img src="./Images/beefgears.gif" width=600>
