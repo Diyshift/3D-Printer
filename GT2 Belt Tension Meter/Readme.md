@@ -11,6 +11,9 @@ This 3D printed tension meter is designed to measure belt deflection to determin
 
 Tested on the following printers: Voron Trident, 2.4, V.0, Salad Fork, and Switchwire.  Note: for other non listed printers please ensure you have clear access to at least 150mm of belt. This meter will not work on printers with belts that run inside of the extrusion channels. 
 
+[!CAUTION] The instructions and tension lookup tables contained herein are to be used with the the RC2 STL files included in this repository only. Any modifications, remixes, or substitutions of the core components have the potential to change the meter's characteristics and accuracy. Many iterations and months of testing were done with the current design (RC2) prior to its release to ensure an accurate and repeatable device. 
+
+
 Complete Assembled and Calibrated Meters Available Here: [<img src="./Images/pfmakes60px.png" width=77>](https://www.etsy.com/listing/1508462271/belt-tension-meter-for-3d-printers?click_key=c4e5ac4274502a0272ba59451d81808205460597%3A1508462271&click_sum=88f43dcf&ref=shop_home_active_2&frs=1) And Here:  [<img src="./Images/west60px.png" width=80>](https://west3d.com/collections/vendors?q=PF%20Makes)
 
 
@@ -38,7 +41,7 @@ Hardware Kits available from the following: [<img src="./Images/pfmakes60px.png"
  * Toothpicks and Q-tips for applying grease
  * Hobby knife (X-Acto) 
  * Small flat needle file (optional)
- * Small triangular smooth cut file (optional for cleaning up gear teeth)
+ * Small triangular smooth cut file (for cleaning up gear teeth and tuning dovetail)
  * Cutter capable of cutting hardened music wire (do NOT use your nice flush cutters for this)
 
 ### PRINT SETTINGS:
@@ -46,7 +49,8 @@ Hardware Kits available from the following: [<img src="./Images/pfmakes60px.png"
  * Slide, needle and spring spacer components work best when printed on smooth or satin PEI
  * Layer height 0.2mm
  * 4 perimeters 5 top and 5 bottom layers
- * 40% grid infill 
+ * 40% grid infill
+ * Single perimeter tops will improve the dialface text considerably
  * 0.4mm nozzle with 0.4mm line width throughout 
  * No seams allowed on needle or slide gear teeth, use blockers or adjust seam settings in your slicer. 
  * Color change at layer 18 for Base and layer 43 Pivot for dual color contrasting text.
@@ -113,7 +117,8 @@ Hardware Kits available from the following: [<img src="./Images/pfmakes60px.png"
 25. Finally, install the M3x25 SHCS Preload Screw into the slide plunger as shown. This screw is threaded into plastic. Tighten until the head is flush with the plunger. Your meter is now assembled and ready for calibration.
 
 <img src="./Images/12preload.png" width=800>
-*Note: If your meter dial is not resting on the zero mark you may need to loosen the two self tapping screws slightly in the spring block move needle to zero position then tighten screws back down. 
+
+**Note:** If your meter dial is not resting on the zero mark you may need to loosen the two self tapping screws slightly in the spring block move needle to zero position then tighten screws back down. 
 
 ### CALIBRATION:
 
