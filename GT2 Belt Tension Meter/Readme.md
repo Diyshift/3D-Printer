@@ -11,7 +11,7 @@ This 3D printed tension meter is designed to measure belt deflection to determin
 
 Tested on the following printers: Voron Trident, 2.4, V.0, Salad Fork, and Switchwire.  Note: for other non listed printers please ensure you have clear access to at least 150mm of belt. This meter will not work on printers with belts that run inside of the extrusion channels. 
 
-[!CAUTION] The instructions and tension lookup tables contained herein are to be used with the the RC2 STL files included in this repository only. Any modifications, remixes, or substitutions of the core components have the potential to change the meter's characteristics and accuracy. Many iterations and months of testing were done with the current design (RC2) prior to its release to ensure an accurate and repeatable device. 
+**CAUTION:** The instructions and tension lookup tables contained herein are to be used with the the RC2 STL files included in this repository only. Any modifications, remixes, or substitutions of the core components have the potential to change the meter's characteristics and accuracy. Many iterations and months of testing were done with the current design (RC2) prior to its release to ensure an accurate and repeatable device. 
 
 
 Complete Assembled and Calibrated Meters Available Here: [<img src="./Images/pfmakes60px.png" width=77>](https://www.etsy.com/listing/1508462271/belt-tension-meter-for-3d-printers?click_key=c4e5ac4274502a0272ba59451d81808205460597%3A1508462271&click_sum=88f43dcf&ref=shop_home_active_2&frs=1) And Here:  [<img src="./Images/west60px.png" width=80>](https://west3d.com/collections/vendors?q=PF%20Makes)
