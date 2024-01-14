@@ -14,7 +14,7 @@ Tested on the following printers: Voron Trident, 2.4, V.0, Salad Fork, and Switc
 **CAUTION:** The instructions and tension lookup tables contained herein are to be used with the the RC2 STL files included in this repository only. Any modifications, remixes, or substitutions of the core components have the potential to change the meter's characteristics and accuracy. Many iterations and months of testing were done with the current design (RC2) prior to its release to ensure an accurate and repeatable device. 
 
 
-Complete Assembled and Calibrated Meters Available Here: [<img src="./Images/pfmakes60px.png" width=77>](https://www.etsy.com/listing/1508462271/belt-tension-meter-for-3d-printers?click_key=c4e5ac4274502a0272ba59451d81808205460597%3A1508462271&click_sum=88f43dcf&ref=shop_home_active_2&frs=1) And Here:  [<img src="./Images/west60px.png" width=80>](https://west3d.com/collections/vendors?q=PF%20Makes)
+**Complete Assembled and Calibrated Meters Available Here:** [<img src="./Images/pfmakes60px.png" width=77>](https://www.etsy.com/listing/1508462271/belt-tension-meter-for-3d-printers?click_key=c4e5ac4274502a0272ba59451d81808205460597%3A1508462271&click_sum=88f43dcf&ref=shop_home_active_2&frs=1) And Here:  [<img src="./Images/west60px.png" width=80>](https://west3d.com/collections/vendors?q=PF%20Makes)
 
 
 
@@ -32,7 +32,9 @@ M2x10 Socket Head  Self Tapping Screws | 2
 Complete Set of Printed [Parts](https://github.com/Diyshift/3D-Printer/tree/main/GT2%20Belt%20Tension%20Meter/STLs) | 1
 
 
-Hardware Kits available from the following: [<img src="./Images/pfmakes60px.png" width=77>](https://www.etsy.com/listing/1508474957/hardware-kit-for-diy-3d-printer-belt?click_key=44e1f5f41d658941f698c878da3f2724a57067ab%3A1508474957&click_sum=25d1381a&ref=shop_home_active_1) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="./Images/west60px.png" width=80>](https://west3d.com/products/hardware-kit-for-diy-3d-printer-belt-tension-meter-by-pf-makes) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="./Images/Sledz_Logo_60.png" width=120>](https://www.sledz.uk/product/hardware-kit-belt-tension-meter-by-pf-makes)
+**Complete Hardware Kits Available Here:** [Kit Vendors](https://github.com/Diyshift/3D-Printer/edit/main/GT2%20Belt%20Tension%20Meter/Readme.md?plain=1#L180)
+
+
 
 ### TOOLS:
  * M3 drill bit and holder 
@@ -172,6 +174,9 @@ Note:  Depending on your style of printer your belt tension may increase slightl
 <img src="./Images/table1.png" width=800>
 <img src="./Images/table2.png" width=800>
 <img src="./Images/stepper.jpg" width=800>
+
+### HARDWARE VENDOR DIRECTORY
+[<img src="./Images/pfmakes60px.png" width=77>](https://www.etsy.com/listing/1508474957/hardware-kit-for-diy-3d-printer-belt?click_key=44e1f5f41d658941f698c878da3f2724a57067ab%3A1508474957&click_sum=25d1381a&ref=shop_home_active_1) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="./Images/west60px.png" width=80>](https://west3d.com/products/hardware-kit-for-diy-3d-printer-belt-tension-meter-by-pf-makes) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="./Images/Sledz_Logo_60.png" width=120>](https://www.sledz.uk/product/hardware-kit-belt-tension-meter-by-pf-makes)
   
 ### CREDITS
 Sincere thanks to the following for donating their time, plastic, and patience in helping to test and provide feedback on this design: 
