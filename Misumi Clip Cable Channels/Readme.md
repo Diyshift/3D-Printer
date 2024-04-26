@@ -1,5 +1,6 @@
 # Misumi Clip Cable Channels
  ### A collection of clips for 2020 extrusion to form channels to run/hide your wires 
+ Now available for 1515 extrusions! See 1515 folder under STLs 
  
 <img src="./Images/Misumi Clip Channels.png" width=1000>
 
