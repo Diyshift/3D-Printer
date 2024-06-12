@@ -22,7 +22,7 @@ Tested on the following printers: Voron Trident, 2.4, V.0, Salad Fork, and Switc
 
 Below are instructions as well as everything you need to source hardware and get started. For video instructions please check out the excellent step-by-step build guide that LeeMerie3D put together on his Youtube channel here:
 
-[<img src="./Images/LM3D.jpg" width=60>](https://www.youtube.com/watch?v=Ax2ZACkU6S8&t=1s)
+[<img src="./Images/LM3D_Logo.png" width=70>](https://www.youtube.com/watch?v=Ax2ZACkU6S8&t=1s)
 
 ### BOM:
 Item | Qty
