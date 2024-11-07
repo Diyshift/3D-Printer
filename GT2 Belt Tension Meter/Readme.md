@@ -36,7 +36,9 @@ M2x10 Socket Head  Self Tapping Screws | 2
 Complete Set of Printed [Parts](https://github.com/Diyshift/3D-Printer/tree/main/GT2%20Belt%20Tension%20Meter/STLs) | 1
 
 
-**Complete Hardware Kits Available Here:** [<img src="./Images/pfmakes60px.png" width=77>](https://www.etsy.com/listing/1508474957/hardware-kit-for-diy-3d-printer-belt?click_key=44e1f5f41d658941f698c878da3f2724a57067ab%3A1508474957&click_sum=25d1381a&ref=shop_home_active_1)US &nbsp;&nbsp;&nbsp;&nbsp; [<img src="./Images/west60px.png" width=80>](https://west3d.com/products/hardware-kit-for-diy-3d-printer-belt-tension-meter-by-pf-makes)US &nbsp;&nbsp;&nbsp;&nbsp; [<img src="./Images/Viperworx_Logo_50.png" width=120>](https://www.viperworx.uk/product/hardware-kit-belt-tension-meter-by-pf-makes)UK &nbsp;&nbsp;&nbsp;&nbsp;[<img src="./Images/3DPTronics50.png" width=180>](https://www.3dptronics.com/voron-mods/gt2-belt-tension-meter-hardware-kit-by-pf-makes)Italy
+**Complete Hardware Kits Available From The Following:** 
+
+[<img src="./Images/pfmakes60px.png" width=77>](https://www.etsy.com/listing/1508474957/hardware-kit-for-diy-3d-printer-belt?click_key=44e1f5f41d658941f698c878da3f2724a57067ab%3A1508474957&click_sum=25d1381a&ref=shop_home_active_1)US &nbsp;&nbsp;&nbsp;&nbsp; [<img src="./Images/west60px.png" width=120>](https://west3d.com/products/hardware-kit-for-diy-3d-printer-belt-tension-meter-by-pf-makes)US &nbsp;&nbsp;&nbsp;&nbsp; [<img src="./Images/Viperworx_Logo_50.png" width=120>](https://www.viperworx.uk/product/hardware-kit-belt-tension-meter-by-pf-makes)UK &nbsp;&nbsp;&nbsp;&nbsp;[<img src="./Images/dremc60.jpg"  width=120>](https://store.dremc.com.au/products/3d-printer-belt-tension-meter-by-pf-makes?_pos=1&_sid=28fbfb08b&_ss=r)AU &nbsp;&nbsp;&nbsp;&nbsp; [<img src="./Images/3DPTronics50.png" width=200>](https://www.3dptronics.com/voron-mods/gt2-belt-tension-meter-hardware-kit-by-pf-makes)IT &nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
