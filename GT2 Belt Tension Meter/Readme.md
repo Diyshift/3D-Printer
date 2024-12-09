@@ -176,7 +176,8 @@ Calibration wire can be stowed on the center pin with wire secured beneath the s
 
 Note:  Depending on your style of printer your belt tension may increase slightly when utilizing a heated chamber so keep this in mind when selecting tensions in the higher range. Check your belts after a preheat to be sure you are not exceeding safe limits. When checking tension always remember to run the measured axis through its full range of travel before measuring to normalize the tension in the belt path. 
 
-<img src="./Images/table1.png" width=800>
+<img src="./Images/table1.jpg" width=800>
+<img src="./Images/table1a.png" width=800>
 
 ### Need a handy tension chart sticker?  Dr. Mursey has them here in his sticker shop: 
 
