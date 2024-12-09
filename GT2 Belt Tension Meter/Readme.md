@@ -17,7 +17,6 @@ Tested on the following printers: Voron Trident, 2.4, V.0, Salad Fork, and Switc
 **Complete Assembled and Calibrated Meters Available Here:** [<img src="./Images/pfmakes60px.png" width=77>](https://www.etsy.com/listing/1508462271/belt-tension-meter-for-3d-printers?click_key=c4e5ac4274502a0272ba59451d81808205460597%3A1508462271&click_sum=88f43dcf&ref=shop_home_active_2&frs=1)US &nbsp;&nbsp;&nbsp;&nbsp; [<img src="./Images/west60px.png" width=120>](https://west3d.com/collections/vendors?q=PF%20Makes)US &nbsp;&nbsp;&nbsp;&nbsp; [<img src="./Images/dremc60.jpg"  width=120>](https://store.dremc.com.au/products/3d-printer-belt-tension-meter-by-pf-makes?variant=44804998955177)AU
 
 
-
 ### Ready to build your own? 
 
 Below are instructions as well as everything you need to source hardware and get started. For video instructions please check out the excellent step-by-step build guide that LeeMerie3D put together on his Youtube channel here:
@@ -178,10 +177,15 @@ Calibration wire can be stowed on the center pin with wire secured beneath the s
 Note:  Depending on your style of printer your belt tension may increase slightly when utilizing a heated chamber so keep this in mind when selecting tensions in the higher range. Check your belts after a preheat to be sure you are not exceeding safe limits. When checking tension always remember to run the measured axis through its full range of travel before measuring to normalize the tension in the belt path. 
 
 <img src="./Images/table1.png" width=800>
+
+### Need a handy tension chart sticker?  Dr. Mursey has them here in his sticker shop: 
+
+[<img src="./Images/tension-sticker.jpg" width=300>](https://drmursey.myshopify.com/products/pf-tensioner-chart)
+
 <img src="./Images/table2.png" width=800>
 <img src="./Images/stepper.jpg" width=800>
 
-### HARDWARE VENDOR DIRECTORY
+
 
   
 ### CREDITS
