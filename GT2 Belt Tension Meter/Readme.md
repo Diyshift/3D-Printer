@@ -13,9 +13,10 @@ Tested on the following printers: Voron Trident, 2.4, V.0, Salad Fork, and Switc
 
 **CAUTION:** The instructions and tension lookup tables contained herein are to be used with the the RC2 STL files included in this repository only. Any modifications, remixes, or substitutions of the core components have the potential to change the meter's characteristics and accuracy. Many iterations and months of testing were done with the current design (RC2) prior to its release to ensure an accurate and repeatable device. 
 
+---------------------------------------------------------------------------------------------------
+**Complete Assembled and Calibrated Meters Available Here:** [<img src="./Images/pfmakes60px.png" width=77>](https://www.etsy.com/listing/1508462271/belt-tension-meter-for-3d-printers?click_key=c4e5ac4274502a0272ba59451d81808205460597%3A1508462271&click_sum=88f43dcf&ref=shop_home_active_2&frs=1) **US** &nbsp;&nbsp;&nbsp;&nbsp; [<img src="./Images/west60px.png" width=120>](https://west3d.com/collections/vendors?q=PF%20Makes) **US** &nbsp;&nbsp;&nbsp;&nbsp; [<img src="./Images/dremc60.jpg"  width=120>](https://store.dremc.com.au/products/3d-printer-belt-tension-meter-by-pf-makes?variant=44804998955177) **AU**
 
-**Complete Assembled and Calibrated Meters Available Here:** [<img src="./Images/pfmakes60px.png" width=77>](https://www.etsy.com/listing/1508462271/belt-tension-meter-for-3d-printers?click_key=c4e5ac4274502a0272ba59451d81808205460597%3A1508462271&click_sum=88f43dcf&ref=shop_home_active_2&frs=1)US &nbsp;&nbsp;&nbsp;&nbsp; [<img src="./Images/west60px.png" width=120>](https://west3d.com/collections/vendors?q=PF%20Makes)US &nbsp;&nbsp;&nbsp;&nbsp; [<img src="./Images/dremc60.jpg"  width=120>](https://store.dremc.com.au/products/3d-printer-belt-tension-meter-by-pf-makes?variant=44804998955177)AU
-
+---------------------------------------------------------------------------------------------------
 
 ### Ready to build your own? 
 
@@ -37,8 +38,13 @@ Complete Set of Printed [Parts](https://github.com/Diyshift/3D-Printer/tree/main
 
 **Complete Hardware Kits Available From The Following:** 
 
-[<img src="./Images/pfmakes60px.png" width=77>](https://www.etsy.com/listing/1508474957/hardware-kit-for-diy-3d-printer-belt?click_key=44e1f5f41d658941f698c878da3f2724a57067ab%3A1508474957&click_sum=25d1381a&ref=shop_home_active_1)US &nbsp;&nbsp;&nbsp;&nbsp; [<img src="./Images/west60px.png" width=120>](https://west3d.com/products/hardware-kit-for-diy-3d-printer-belt-tension-meter-by-pf-makes)US &nbsp;&nbsp;&nbsp;&nbsp; [<img src="./Images/Viperworx_Logo_50.png" width=120>](https://www.viperworx.uk/product/hardware-kit-belt-tension-meter-by-pf-makes)UK &nbsp;&nbsp;&nbsp;&nbsp;[<img src="./Images/dremc60.jpg"  width=120>](https://store.dremc.com.au/products/3d-printer-belt-tension-meter-by-pf-makes?_pos=1&_sid=28fbfb08b&_ss=r)AU &nbsp;&nbsp;&nbsp;&nbsp; [<img src="./Images/3DPTronics50.png" width=200>](https://www.3dptronics.com/voron-mods/gt2-belt-tension-meter-hardware-kit-by-pf-makes)IT &nbsp;&nbsp;&nbsp;&nbsp;
+-----------------------------------------------------------------------------------------------------
+[<img src="./Images/pfmakes60px.png" width=77>](https://www.etsy.com/listing/1508474957/hardware-kit-for-diy-3d-printer-belt?click_key=44e1f5f41d658941f698c878da3f2724a57067ab%3A1508474957&click_sum=25d1381a&ref=shop_home_active_1) **US** &nbsp;&nbsp;&nbsp;&nbsp; [<img src="./Images/west60px.png" width=120>](https://west3d.com/products/hardware-kit-for-diy-3d-printer-belt-tension-meter-by-pf-makes) **US** &nbsp;&nbsp;&nbsp;&nbsp; [<img src="./Images/Viperworx_Logo_50.png" width=120>](https://www.viperworx.uk/product/hardware-kit-belt-tension-meter-by-pf-makes) **UK** &nbsp;&nbsp;&nbsp;&nbsp;[<img src="./Images/dremc60.jpg"  width=120>](https://store.dremc.com.au/products/3d-printer-belt-tension-meter-by-pf-makes?_pos=1&_sid=28fbfb08b&_ss=r) **AU** &nbsp;&nbsp;&nbsp;&nbsp; 
 
+-----------------------------------------------------------------------------------------------------
+[<img src="./Images/3DPTronics50.png" width=200>](https://www.3dptronics.com/voron-mods/gt2-belt-tension-meter-hardware-kit-by-pf-makes) **IT** &nbsp;&nbsp;&nbsp;&nbsp; [<img src="./Images/replimat_logo2.png" width=250>](https://www.replimat.eu/gt2-belt-tension-meter-hardware-kit/rt10204.2) **DE** &nbsp;&nbsp;&nbsp;&nbsp;
+
+-----------------------------------------------------------------------------------------------------
 
 
 ### TOOLS:
