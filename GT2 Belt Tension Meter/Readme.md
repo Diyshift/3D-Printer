@@ -31,7 +31,7 @@ M3x7 Button Head Cap Screw (M3x6 BHCS also works) | 1
 M3x25 Socket Head Cap Screw | 1
 M3x8x0.6 Washer | 1
 M2x10 Socket Head  Self Tapping Screws | 2
-[0.81mm x 100mm (0.032” x 4”) Tempered steel music wire AKA "piano wire"](https://www.amazon.com/dp/B002WXGIHC?psc=1&ref=ppx_yo2ov_dt_b_product_details) | 1
+[0.81mm x 100mm (0.032” x 4”) Tempered steel music wire AKA "piano wire"](https://ksmetals.com/products/mw-032) | 1
 [6mm OD x 0.6mm wire dia. x 50mm free length compression spring with 20 active coils (0.35N/mm spring rate)](https://www.amazon.com/dp/B076LTYY5K?psc=1&ref=ppx_yo2ov_dt_b_product_details) | 1
 Complete Set of Printed [Parts](https://github.com/Diyshift/3D-Printer/tree/main/GT2%20Belt%20Tension%20Meter/STLs) | 1
 
